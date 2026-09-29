@@ -10,13 +10,13 @@ Je cherche un stage entre Genève et Lausanne.
 
 ## Mes projets
 
-**[Infrastructure VMware en équipe](https://github.com/dnhj-06/cluster-vsphere)**
+**[Infrastructure VMware en équipe](https://github.com/dnhj-06/cluster-vsphere)**<br>
 3 serveurs physiques sous ESXi, vCenter et un domaine Active Directory, montés à 4 sur du vieux matériel.
 
-**[Projets PPE](https://github.com/dnhj-06/ppe-projects)**
+**[Projets PPE](https://github.com/dnhj-06/ppe-projects)**<br>
 5 projets de cours documentés étape par étape : mise en service d'un poste, poste multi-utilisateurs, migration et sauvegarde, dépannage, déploiement par image système.
 
-**Appli d'inventaire**
+**Appli d'inventaire**<br>
 Appli web pour gérer le stock d'un commerce, avec Firebase et Vercel. Le repo est privé pour l'instant.
 
 ## Ce que j'utilise
