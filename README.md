@@ -34,7 +34,7 @@ Avant l'informatique, j'ai passé trois ans dans le commerce (vente, stock, gest
 |---|---|---|
 | **[Infrastructure VMware en équipe](https://github.com/dnhj-06/cluster-vsphere)**<br><sub>3 serveurs physiques montés à 4, utilisables par les élèves de l'école</sub> | ✅ Terminé · en service | `ESXi` `vCenter` `Windows Server` `AD` |
 | **[Projets PPE · IT Essentials](https://github.com/dnhj-06/ppe-projects)**<br><sub>Mise en service, multi-utilisateurs, sauvegarde, dépannage, déploiement</sub> | ✅ 5 projets terminés | `Windows` |
-| **Appli d'inventaire**<br><sub>Gestion du stock d'un commerce · repo privé</sub> | 🔄 En cours | `Firebase` `Vercel` |
+| **[Appli d'inventaire](https://github.com/dnhj-06/inventaire-commerce)**<br><sub>Stock magasin + dépôt d'un commerce, en temps réel</sub> | 🔄 En cours | `Firebase` `Vercel` `Gemini` |
 
 <!-- Pour ajouter un projet : copier une ligne du tableau -->
 
