@@ -4,8 +4,6 @@
 
 Pour l'instant, ce qui m'intéresse le plus c'est le réseau et tout ce qui touche aux serveurs.
 
-Avant de me lancer dans l'informatique, j'ai passé trois ans dans le commerce : vente, stock, commandes, gestion du magasin. C'est d'ailleurs pour ce magasin que j'ai codé ma première vraie appli.
-
 Je cherche un stage entre Genève et Lausanne.
 
 ## Mes projets
