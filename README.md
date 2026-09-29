@@ -1,13 +1,11 @@
-<img src="banner.svg" alt="Drilon Nuhija - Infrastructure, serveurs, réseau" width="100%">
+<img src="header.svg" alt="Drilon Nuhija - étudiant CFC informaticien au Geneva Institute of Technology" width="100%">
 
 <p align="center">
-  <a href="https://dnhj-06.github.io"><img src="https://img.shields.io/badge/Mon_CV-dnhj--06.github.io-0ea5e9?style=flat-square" alt="CV"></a>
-  <a href="mailto:drilon.nuhija@git.swiss"><img src="https://img.shields.io/badge/E--mail-drilon.nuhija@git.swiss-1e293b?style=flat-square" alt="E-mail"></a>
+  <a href="https://dnhj-06.github.io"><img src="https://img.shields.io/badge/CV-dnhj--06.github.io-f59e0b?style=for-the-badge&labelColor=1c1917" alt="CV"></a>
+  <a href="mailto:drilon.nuhija@git.swiss"><img src="https://img.shields.io/badge/Mail-drilon.nuhija@git.swiss-f59e0b?style=for-the-badge&labelColor=1c1917" alt="Mail"></a>
 </p>
 
----
-
-### 👋 En quelques mots
+## ⚡ Qui je suis
 
 Étudiant en première année de CFC d'informaticien au **Geneva Institute of Technology**, à Genève.
 
@@ -15,65 +13,54 @@ Pour l'instant, ce qui m'intéresse le plus c'est le réseau et tout ce qui touc
 
 Avant de me lancer dans l'informatique, j'ai passé trois ans dans le commerce : vente, stock, commandes, gestion du magasin. C'est d'ailleurs pour ce magasin que j'ai codé ma première vraie appli.
 
-> Chaque projet a sa propre doc : étapes, captures d'écran, problèmes rencontrés et comment je les ai réglés.
+**Je cherche un stage** en réseau, serveurs ou support informatique, entre Genève et Lausanne.
 
----
+## 🛠️ Mes projets
 
-### 🎯 Ce que je recherche
+> ✅ terminé · 🔄 en cours · chaque projet a sa doc avec les étapes, les captures et les problèmes réglés
 
-| | |
-|---|---|
-| **Type** | Stage |
-| **Domaines** | Réseau · Serveurs · Support informatique |
-| **Lieu** | Entre Genève et Lausanne |
-| **Contact** | [drilon.nuhija@git.swiss](mailto:drilon.nuhija@git.swiss) · [mon CV](https://dnhj-06.github.io) |
+**🔄 [Infrastructure VMware en équipe](https://github.com/dnhj-06/cluster-vsphere)** · `ESXi` `vCenter` `Windows Server` `Active Directory`<br>
+3 serveurs physiques montés à 4 sur du vieux matériel, vCenter (VCSA 6.5), domaine AD, problèmes de stockage et de compatibilité réglés.
 
----
-
-### 🚀 Projets
-
-| Projet | Ce que j'ai fait | Technos |
-|---|---|---|
-| 🖥️ [Infrastructure VMware en équipe](https://github.com/dnhj-06/cluster-vsphere) | 3 serveurs physiques sous ESXi montés à 4, vCenter (VCSA 6.5), domaine Active Directory, problèmes de stockage et de compatibilité réglés sur du vieux matériel | `ESXi` `vCenter` `Windows Server` `AD` |
-| 💻 [Mise en service d'un poste](https://github.com/dnhj-06/ppe-projects/tree/main/projet-1-fiche-mise-en-service) | Installation et configuration d'un poste pour un cabinet comptable | `Windows` |
-| 👥 [Poste multi-utilisateurs](https://github.com/dnhj-06/ppe-projects/tree/main/projet-2-poste-multi-utilisateurs) | Poste partagé pour une salle informatique, avec profils utilisateurs séparés | `Windows` |
-| 💾 [Migration et sauvegarde](https://github.com/dnhj-06/ppe-projects/tree/main/projet-3-migration-sauvegarde) | Migration et sauvegarde des données d'un poste existant | `Windows` |
-| 🔧 [Dépannage et diagnostic](https://github.com/dnhj-06/ppe-projects/tree/main/projet-4-depannage-diagnostic) | Diagnostic et résolution d'une panne sur un poste de travail | `Windows` |
-| 📦 [Déploiement standardisé](https://github.com/dnhj-06/ppe-projects/tree/main/projet-5-deploiement-standardise) | Déploiement d'un poste à partir d'une image système | `Windows` |
-| 📊 Appli d'inventaire *(repo privé)* | Appli web pour gérer le stock d'un commerce | `Firebase` `Vercel` |
-
-<!-- Pour ajouter un projet : copier une ligne du tableau au-dessus et la modifier -->
-
----
-
-### 🗺️ L'infra du projet VMware
-
+<details>
+<summary>Voir le schéma de l'infra</summary>
+<br>
 <img src="https://raw.githubusercontent.com/dnhj-06/cluster-vsphere/main/schema.svg" alt="Schéma de l'infrastructure VMware" width="100%">
+</details>
 
----
+**✅ [Projets PPE · IT Essentials](https://github.com/dnhj-06/ppe-projects)** · `Windows`<br>
+5 projets sur des postes de travail :
+[mise en service](https://github.com/dnhj-06/ppe-projects/tree/main/projet-1-fiche-mise-en-service) ·
+[multi-utilisateurs](https://github.com/dnhj-06/ppe-projects/tree/main/projet-2-poste-multi-utilisateurs) ·
+[migration et sauvegarde](https://github.com/dnhj-06/ppe-projects/tree/main/projet-3-migration-sauvegarde) ·
+[dépannage](https://github.com/dnhj-06/ppe-projects/tree/main/projet-4-depannage-diagnostic) ·
+[déploiement par image](https://github.com/dnhj-06/ppe-projects/tree/main/projet-5-deploiement-standardise)
 
-### 🧰 Stack
+**🔄 Appli d'inventaire** · `Firebase` `Vercel` · *repo privé*<br>
+Appli web pour gérer le stock d'un commerce. En cours : import automatique des factures par IA.
 
-**Virtualisation**<br>
-![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-607078?style=flat-square&logo=vmware&logoColor=white)
-![vCenter](https://img.shields.io/badge/vCenter_/_vSphere-607078?style=flat-square&logo=vmware&logoColor=white)
-![VMware Workstation](https://img.shields.io/badge/VMware_Workstation-607078?style=flat-square&logo=vmware&logoColor=white)
+<!-- Pour ajouter un projet : copier un bloc au-dessus (titre en gras + une ligne de description) -->
 
-**Systèmes**<br>
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+## 🧭 Mon parcours
 
-**Outils**<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown_/_HackMD-000000?style=flat-square&logo=markdown&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+```
+2019 ─ 2022   ECG Madame de Staël              certificat de culture générale
+2022 ─ 2023   ECGAD                            complément de formation
+2023 ─ 2026   Commerce (tabac-journaux)        vente, stock, gestion du magasin
+2026 ─ ...    Geneva Institute of Technology   CFC d'informaticien  ◀ maintenant
+```
 
----
+## 🔧 Ce que j'utilise
 
-### 🌍 Langues
+![VMware](https://img.shields.io/badge/VMware_ESXi_·_vCenter-1c1917?style=for-the-badge&logo=vmware&logoColor=f59e0b)
+![Windows Server](https://img.shields.io/badge/Windows_Server_·_AD-1c1917?style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-1c1917?style=for-the-badge&logo=ubuntu&logoColor=f59e0b)
+![Git](https://img.shields.io/badge/Git_·_GitHub-1c1917?style=for-the-badge&logo=git&logoColor=f59e0b)
+![Markdown](https://img.shields.io/badge/HackMD_·_Markdown-1c1917?style=for-the-badge&logo=markdown&logoColor=f59e0b)
+![Firebase](https://img.shields.io/badge/Firebase-1c1917?style=for-the-badge&logo=firebase&logoColor=f59e0b)
 
-🇫🇷 Français : langue maternelle · 🇦🇱 Albanais : langue maternelle · 🇬🇧 Anglais : B2 (certificat)
+## 🌍 Langues
+
+Français et albanais (langues maternelles) · Anglais B2 (certificat)
+
+<sub>Hors écran : sport, voitures, jeux vidéo et montage de PC.</sub>

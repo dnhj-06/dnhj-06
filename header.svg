@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" font-family="Consolas, 'Courier New', monospace">
+  <rect width="1000" height="300" rx="16" fill="#171412"/>
+  <rect x="0.5" y="0.5" width="999" height="299" rx="16" fill="none" stroke="#3a322b"/>
+  <rect x="0" y="0" width="1000" height="40" rx="16" fill="#221d19"/>
+  <rect x="0" y="24" width="1000" height="16" fill="#221d19"/>
+  <circle cx="26" cy="20" r="6" fill="#ef4444"/><circle cx="46" cy="20" r="6" fill="#f59e0b"/><circle cx="66" cy="20" r="6" fill="#22c55e"/>
+  <text x="500" y="25" fill="#78716c" font-size="13" text-anchor="middle">drilon@geneve: ~</text>
+  <g font-size="19">
+    <text x="36" y="84"><tspan fill="#f59e0b">~ $</tspan><tspan fill="#e7e5e4"> whoami</tspan></text>
+    <text x="36" y="120" fill="#fafaf9" font-size="32" font-weight="700" font-family="Segoe UI, Helvetica, Arial, sans-serif">Drilon Nuhija</text>
+    <text x="36" y="158"><tspan fill="#f59e0b">~ $</tspan><tspan fill="#e7e5e4"> cat role.txt</tspan></text>
+    <text x="36" y="186" fill="#a8a29e">Étudiant CFC informaticien · Geneva Institute of Technology</text>
+    <text x="36" y="226"><tspan fill="#f59e0b">~ $</tspan><tspan fill="#e7e5e4"> cat focus.txt</tspan></text>
+    <text x="36" y="254" fill="#a8a29e">Réseau · Serveurs · Virtualisation   <tspan fill="#fbbf24">● en recherche de stage</tspan></text>
+    <rect x="36" y="268" width="11" height="20" fill="#f59e0b"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+  </g>
+  <g transform="translate(790,78)" fill="none" stroke="#f59e0b" stroke-width="2">
+    <rect x="0" y="0" width="160" height="44" rx="8"/><rect x="0" y="56" width="160" height="44" rx="8"/><rect x="0" y="112" width="160" height="44" rx="8"/>
+    <g stroke="#57534e"><line x1="60" y1="22" x2="140" y2="22"/><line x1="60" y1="78" x2="140" y2="78"/><line x1="60" y1="134" x2="140" y2="134"/></g>
+    <g fill="#22c55e" stroke="none"><circle cx="22" cy="22" r="5"/><circle cx="22" cy="78" r="5"/><circle cx="22" cy="134" r="5"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle></g>
+    <g fill="#f59e0b" stroke="none"><circle cx="38" cy="22" r="3"/><circle cx="38" cy="78" r="3"/><circle cx="38" cy="134" r="3"/></g>
+  </g>
+</svg>
