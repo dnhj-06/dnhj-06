@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://dnhj-06.github.io"><img src="https://img.shields.io/badge/CV-dnhj--06.github.io-e5243b?style=flat-square&labelColor=131317" alt="CV"></a>
+  <a href="https://www.linkedin.com/in/drilon-nuhija-956803433/"><img src="https://img.shields.io/badge/LinkedIn-Drilon_Nuhija-2a2a31?style=flat-square&logo=linkedin&logoColor=white&labelColor=131317" alt="LinkedIn"></a>
   <a href="mailto:drilon.nuhija@git.swiss"><img src="https://img.shields.io/badge/Mail-drilon.nuhija@git.swiss-2a2a31?style=flat-square&labelColor=131317" alt="Mail"></a>
   <img src="https://img.shields.io/badge/Lieu-Genève-2a2a31?style=flat-square&labelColor=131317" alt="Genève">
 </p>
@@ -24,7 +25,7 @@ Avant l'informatique, j'ai passé trois ans dans le commerce (vente, stock, gest
 | **Type** | Stage |
 | **Domaines** | Réseau · Serveurs · Support informatique |
 | **Lieu** | Entre Genève et Lausanne |
-| **Contact** | [drilon.nuhija@git.swiss](mailto:drilon.nuhija@git.swiss) · [mon CV](https://dnhj-06.github.io) |
+| **Contact** | [drilon.nuhija@git.swiss](mailto:drilon.nuhija@git.swiss) · [LinkedIn](https://www.linkedin.com/in/drilon-nuhija-956803433/) · [mon CV](https://dnhj-06.github.io) |
 
 ---
 
