@@ -35,6 +35,8 @@ Avant l'informatique, j'ai passé trois ans dans le commerce (vente, stock, gest
 |---|---|---|
 | **[Infrastructure VMware en équipe](https://github.com/dnhj-06/cluster-vsphere)**<br><sub>3 serveurs physiques montés à 4, utilisables par les élèves de l'école</sub> | ✅ Terminé · en service | `ESXi` `vCenter` `Windows Server` `AD` |
 | **[Projets PPE · IT Essentials](https://github.com/dnhj-06/ppe-projects)**<br><sub>Mise en service, multi-utilisateurs, sauvegarde, dépannage, déploiement</sub> | ✅ 5 projets terminés | `Windows` |
+| **[Projets Réseau · Networking Essentials](https://github.com/dnhj-06/projets-reseau)**<br><sub>Adressage IP, VLAN, NAT et pare-feu, diagnostic de panne, PME multi-sites avec VPN IPsec</sub> | ✅ 5 projets terminés | `Cisco IOS` `GNS3` |
+| **[Projets Virtualisation](https://github.com/dnhj-06/projets-virtualisation)**<br><sub>Infra PME virtualisée, snapshots et reprise, labo isolé, migration P2V, comparatif d'hyperviseurs</sub> | ✅ 5 projets terminés | `VMware` `ESXi` `Ubuntu` |
 | **[Appli d'inventaire](https://github.com/dnhj-06/inventaire-commerce)**<br><sub>Stock magasin + dépôt d'un commerce, en temps réel</sub> | 🔄 En cours | `Firebase` `Vercel` `Gemini` |
 
 <!-- Pour ajouter un projet : copier une ligne du tableau -->
@@ -49,9 +51,9 @@ Avant l'informatique, j'ai passé trois ans dans le commerce (vente, stock, gest
 
 ### `04` · Stack
 
-| Virtualisation | Systèmes | Outils |
-|---|---|---|
-| VMware ESXi · vCenter · Workstation | Windows · Windows Server · Active Directory · Ubuntu | Git · GitHub · HackMD · Firebase |
+| Réseau | Virtualisation | Systèmes | Outils |
+|---|---|---|---|
+| Cisco IOS · GNS3 · VLAN · NAT · ACL · VPN IPsec | VMware ESXi · vCenter · Workstation · Clonezilla | Windows · Windows Server · Active Directory · Ubuntu | Git · GitHub · HackMD · Firebase |
 
 ---
 
